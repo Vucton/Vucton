@@ -18,4 +18,4 @@
 
 ### Badges
 
-<a href="https://github.com/vucton" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucton&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/igor1043" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucton&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
