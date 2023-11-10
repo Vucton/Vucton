@@ -1,7 +1,7 @@
 👋 My name is João Victor
 ============================
 
-* 🧠  I'm learning JAVA Language with Angular - Framework
+* 🧠  I'm learning Java 
 
 ### Socials
 
