@@ -1,4 +1,4 @@
-👋 My name is João Victor
+My name is João Victor
 ============================
 
 * 🧠  I'm learning Java 
