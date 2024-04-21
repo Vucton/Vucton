@@ -1,7 +1,7 @@
-My name is João Victor
+Meu nome é João Victor Rodrigues
 ============================
 
-* 🧠  I'm learning Java 
+* 🧠  I'm learning PHP | Laravel 
 
 ### Socials
 
