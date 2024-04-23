@@ -1,7 +1,7 @@
 Meu nome é João Victor Rodrigues
 ============================
 
-* 🧠  I'm learning PHP | Laravel 
+* 🧠  I'm learning PHP|Laravel and PYTHON|Django
 
 ### Socials
 
